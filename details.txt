@@ -1,1 +1,2 @@
 Name: Vishal Kumar Yadav\nFather's Name: [Father's Name]\nRegistration Number: [Regd_no]\nArea of Specialization: [Specialization]
+Area of Specialization: Web Development
